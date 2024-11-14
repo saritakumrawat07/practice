@@ -1,0 +1,6 @@
+1. Make a repo and push the code 
+2. clone the repo 
+3. Add collaborator vikash990 
+4. Make a branch 
+5. Add some code and merge it 
+6. Resolve the conflits.
